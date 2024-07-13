@@ -1,4 +1,5 @@
-//HCSR04 ultrasonic sensors by gamegine, makes sure library is installed
+//HCSR04 ultrasonic sensors by gamegine, V2.0.3 makes sure library is installed
+
 #include <HCSR04.h>
 
 HCSR04 hc(12, 10); //initialisation class HCSR04 (trig pin , echo pin)
@@ -21,7 +22,7 @@ void loop() {
     Serial.print("e");
   }
 
-  //delay to prevent any errors in readings from sonic sensor.
+  //delay to prevent any errors in readings from ultrasonic sensor.
   delay(100);
 
 }
