@@ -4,10 +4,16 @@ Every Time You save a completely new Arduino code for certain tasks. Please go h
 what task does it have, and the name of it? And please, if you ever use any libraries place their names, versions used, and author inside the code file as 
 comments on the top.
 
+
+
 File NAME: name of code file.
-Arduino Model: The mode of the Arduino code worked or did not work
-Stage: current stage of the code: working - 1, not working - 2, IDK -3
-Robot Code Version: Arduino code relations ship with robot code or just say "Independent"
+
+Arduino Model: The mode of the Arduino code worked or did not work.
+
+Stage: current stage of the code: working - 1, not working - 2, IDK -3.
+
+Robot Code Version: Arduino code relations ship with robot code or just say "Independent".
+
 Short Description: Briefly describe the function of your code.
 
 
